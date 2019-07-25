@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/KarateChop
+/KarateChop/bin/Debug/netcoreapp2.2
+/KarateChop/obj
+/KarateChop.Tests/bin/Debug/netcoreapp2.2
+/KarateChop.Tests/obj
